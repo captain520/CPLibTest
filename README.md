@@ -1,2 +1,2 @@
 # CPLibTest
-![演示图拼啊](CPLibTest/密码输入框演示图片.gif)
+![密码输入演示图片](https://raw.githubusercontent.com/captain520/CPLibTest/master/PasswdInputDemo.gif)
