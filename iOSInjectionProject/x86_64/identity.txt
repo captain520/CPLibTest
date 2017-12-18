@@ -1,0 +1,2 @@
+/Users/wangzhangchuan/Library/Developer/Xcode/DerivedData/CPLibTest-dahewogtwfpsbwhiqgvfsbbqeyjz/Build/Products/Debug-iphonesimulator/CPLibTest.app
+iPhone Developer

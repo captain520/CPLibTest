@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ClassName</key>
+		<string>CPSpringAnimationVC</string>
+		<key>Des</key>
+		<string>SpringAnimation</string>
+	</dict>
+	<dict>
+		<key>ClassName</key>
+		<string>CPPasswdInputVC</string>
+		<key>Des</key>
+		<string>密码输入框</string>
+	</dict>
+</array>
+</plist>

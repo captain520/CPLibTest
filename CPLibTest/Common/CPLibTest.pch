@@ -1,0 +1,18 @@
+//
+//  CPLibTest.pch
+//  CPLibTest
+//
+//  Created by wangzhangchuan on 2017/12/16.
+//  Copyright © 2017年 wangzhangchuan. All rights reserved.
+//
+
+#ifndef CPLibTest_pch
+#define CPLibTest_pch
+
+#import <Masonry.h>
+#import "CPTestClass.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CPLibTest_pch */

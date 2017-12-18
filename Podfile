@@ -1,0 +1,23 @@
+platform :ios,'8.0'
+
+target "CPLibTest" do
+#pod 'AFNetworking'
+#pod 'MJRefresh','3.1.0'
+##pod 'IQKeyboardManager' 
+#pod 'IQKeyboardManager', '~> 5.0.6'
+#pod 'BaiduMapKit','3.0.0'
+#pod 'MJExtension'
+#pod 'UMengAnalytics'
+#pod 'Bugly'
+#pod 'UMengSocialCOM', '~> 5.2.1'
+#pod 'TencentOpenApiSDK', '~> 2.9.5'
+#pod 'SDWebImage', '~> 3.8.1'
+#pod 'IDMPhotoBrowser', '~> 1.8.4'
+#pod 'DZNEmptyDataSet', '~> 1.8.1'
+#pod 'XMLReader'
+#pod 'YPTabBarController'
+#pod 'TZImagePickerController', '~> 1.7.7'
+pod 'Masonry', '~> 1.0.2'
+#pod 'JVFloatLabeledTextField'
+#pod 'ReactiveCocoa'
+end
